@@ -1,7 +1,8 @@
 # 📌 **Proyecto Python: POO y Excepciones**
 
 ## 📝 **Descripción del Proyecto**
-Este proyecto está enfocado en demostrar la implementación de **Programación Orientada a Objetos (POO)** y el **manejo de excepciones** en Python.
+
+Este proyecto está enfocado en aprender mostrando  **Programación Orientada a Objetos (POO)** y el **manejo de excepciones** en Python.
 
 El proyecto está organizado en dos directorios principales que abordan estos conceptos fundamentales.
 
@@ -35,7 +36,7 @@ Este directorio contiene ejemplos y implementaciones de **Programación Orientad
 ✔️ **Polimorfismo**
 ✔️ **Métodos y atributos**
 
-📌 _Aquí puedes agregar detalles específicos de tus clases y su funcionalidad._
+📌 _detalles y su funcionalidad._
 
 ### 📌 **Directorio Excep**
 Este directorio contiene ejemplos de **manejo de excepciones**, incluyendo:
@@ -45,7 +46,7 @@ Este directorio contiene ejemplos de **manejo de excepciones**, incluyendo:
 ✔️ **Manejo de errores específicos**
 ✔️ **Jerarquía de excepciones**
 
-📌 _Aquí puedes agregar detalles específicos de tus implementaciones de excepciones._
+📌 _detalles y su funcionalidad._
 
 ---
 
@@ -85,12 +86,12 @@ pip install -r requirements.txt
 ---
 
 ## 📌 **Uso**
-📌 _Aquí debes explicar cómo usar tu proyecto, con ejemplos de código si es necesario._
+📌 _cómo usar  proyecto ._
 
 ---
 
 ## 🛠 **Pruebas**
-📌 _Explica cómo ejecutar las pruebas si las tienes._
+📌 _E_
 
 ---
 
@@ -115,14 +116,14 @@ git push origin feature/AmazingFeature
 ---
 
 ## 👤 **Autor**
-📌 **[Tu Nombre]**  
-🔗 **GitHub:** [@tusername]  
-✉️ **Email:** [tu@email.com]  
+📌 **Fredy Yecid Castro Agray**  
+🔗 **GitHub:** [@fyca1975]  
+✉️ **Email:** [fredy.castro@gmail.com]  
 
 ---
 
 ## 📜 **Licencia**
-Este proyecto está bajo la Licencia **[nombre de la licencia]** - ver el archivo `LICENSE.md` para más detalles.
+Este proyecto está bajo la Licencia **[.]** - ver el archivo `LICENSE.md` para más detalles.
 
 ---
 
