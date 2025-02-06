@@ -1,83 +1,128 @@
-Proyecto Python: POO y Excepciones
+# 📌 **Proyecto Python: POO y Excepciones**
 
-Descripción del Proyecto
+## 📝 **Descripción del Proyecto**
+Este proyecto está enfocado en demostrar la implementación de **Programación Orientada a Objetos (POO)** y el **manejo de excepciones** en Python.
 
-Este proyecto está enfocado en demostrar la implementación de Programación Orientada a Objetos (POO) y el manejo de excepciones en Python. El proyecto está organizado en dos directorios principales que abordan estos conceptos fundamentales de Python.
-Estructura del Proyecto
-Copyproyecto/
+El proyecto está organizado en dos directorios principales que abordan estos conceptos fundamentales.
+
+---
+
+## 📂 **Estructura del Proyecto**
+
+```
+proyecto/
 │
-├── poo/           # Directorio de Programación Orientada a Objetos
+├── poo/           # 📁 Directorio de Programación Orientada a Objetos
 │   └── [archivos relacionados con POO]
 │
-├── excep/         # Directorio de manejo de Excepciones
+├── excep/         # 📁 Directorio de manejo de Excepciones
 │   └── [archivos relacionados con excepciones]
 │
 ├── requirements.txt
 └── README.md
-Contenido
-Directorio POO
-Este directorio contiene ejemplos y implementaciones de Programación Orientada a Objetos, incluyendo:
+```
 
-Definición de clases
-Herencia
-Encapsulamiento
-Polimorfismo
-Métodos y atributos
+---
 
-[Aquí puedes agregar detalles específicos de tus clases y su funcionalidad]
-Directorio Excep
-Este directorio contiene ejemplos de manejo de excepciones, incluyendo:
+## 📌 **Contenido**
 
-Try-except blocks
-Excepciones personalizadas
-Manejo de errores específicos
-Jerarquía de excepciones
+### 📌 **Directorio POO**
+Este directorio contiene ejemplos y implementaciones de **Programación Orientada a Objetos**, incluyendo:
 
-[Aquí puedes agregar detalles específicos de tus implementaciones de excepciones]
-Requisitos
+✔️ **Definición de clases**
+✔️ **Herencia**
+✔️ **Encapsulamiento**
+✔️ **Polimorfismo**
+✔️ **Métodos y atributos**
 
-Python 3.x
-Dependencias listadas en requirements.txt
+📌 _Aquí puedes agregar detalles específicos de tus clases y su funcionalidad._
 
-Instalación
+### 📌 **Directorio Excep**
+Este directorio contiene ejemplos de **manejo de excepciones**, incluyendo:
 
-Clona el repositorio:
+✔️ **Try-except blocks**
+✔️ **Excepciones personalizadas**
+✔️ **Manejo de errores específicos**
+✔️ **Jerarquía de excepciones**
 
-bashCopygit clone [URL-del-repositorio]
+📌 _Aquí puedes agregar detalles específicos de tus implementaciones de excepciones._
 
-Crea un entorno virtual:
+---
 
-bashCopypython -m venv env
+## ⚙️ **Requisitos**
 
-Activa el entorno virtual:
+🔹 **Python 3.x**
+🔹 Dependencias listadas en `requirements.txt`
 
-bashCopy# En Windows:
+---
+
+## 🚀 **Instalación**
+
+### 🔹 **Clona el repositorio:**
+```bash
+git clone [URL-del-repositorio]
+```
+
+### 🔹 **Crea un entorno virtual:**
+```bash
+python -m venv env
+```
+
+### 🔹 **Activa el entorno virtual:**
+```bash
+# En Windows:
 env\Scripts\activate
 
 # En Linux/Mac:
 source env/bin/activate
+```
 
-Instala las dependencias:
+### 🔹 **Instala las dependencias:**
+```bash
+pip install -r requirements.txt
+```
 
-bashCopypip install -r requirements.txt
-Uso
-[Aquí debes explicar cómo usar tu proyecto, con ejemplos de código si es necesario]
-Pruebas
-[Explica cómo ejecutar las pruebas si las tienes]
-Contribución
+---
+
+## 📌 **Uso**
+📌 _Aquí debes explicar cómo usar tu proyecto, con ejemplos de código si es necesario._
+
+---
+
+## 🛠 **Pruebas**
+📌 _Explica cómo ejecutar las pruebas si las tienes._
+
+---
+
+## 🤝 **Contribución**
 Si deseas contribuir a este proyecto:
 
-Haz un Fork del proyecto
-Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
-Haz commit de tus cambios (git commit -m 'Add some AmazingFeature')
-Push a la rama (git push origin feature/AmazingFeature)
-Abre un Pull Request
+1️⃣ **Haz un Fork del proyecto**
+2️⃣ **Crea una rama para tu feature:**
+```bash
+git checkout -b feature/AmazingFeature
+```
+3️⃣ **Haz commit de tus cambios:**
+```bash
+git commit -m 'Add some AmazingFeature'
+```
+4️⃣ **Push a la rama:**
+```bash
+git push origin feature/AmazingFeature
+```
+5️⃣ **Abre un Pull Request**
 
-Autor
-[Tu nombre]
+---
 
-GitHub: [@tusername]
-Email: [tu@email.com]
+## 👤 **Autor**
+📌 **[Tu Nombre]**  
+🔗 **GitHub:** [@tusername]  
+✉️ **Email:** [tu@email.com]  
 
-Licencia
-Este proyecto está bajo la Licencia [nombre de la licencia] - ver el archivo LICENSE.md para más detallesLast edited 5 minutes ago
+---
+
+## 📜 **Licencia**
+Este proyecto está bajo la Licencia **[nombre de la licencia]** - ver el archivo `LICENSE.md` para más detalles.
+
+---
+
